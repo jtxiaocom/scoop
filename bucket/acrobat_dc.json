@@ -1,0 +1,9 @@
+{
+    "version": "20201210",
+    "description": "Acrobat_DC_C_2020.013.20074_SP_20201210.",
+    "homepage": "https://www.adobe.com/",
+    "license": "-",
+    "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.rar",
+    "hash": "sha:a50dfd97dd83682044842a75b9d10a592c2dffdc",
+    "bin": "Acrobat.exe"
+}
