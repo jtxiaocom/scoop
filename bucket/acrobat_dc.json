@@ -4,6 +4,6 @@
     "homepage": "https://www.adobe.com/",
     "license": "-",
     "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.rar",
-    "hash": "sha:a50dfd97dd83682044842a75b9d10a592c2dffdc",
+    "hash": "md5:be47813a42d57d381ec935ebb23c914a",
     "bin": "Acrobat.exe"
 }
