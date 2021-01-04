@@ -3,7 +3,7 @@
     "description": "Acrobat_DC_C_2020.013.20074_SP_20201210.",
     "homepage": "https://www.adobe.com/",
     "license": "-",
-    "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.rar",
-    "hash": "md5:be47813a42d57d381ec935ebb23c914a",
+    "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.zip",
+    "hash": "md5:cbfecf6b04eface95fa166e5bd847eac",
     "bin": "Acrobat.exe"
 }
