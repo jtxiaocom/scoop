@@ -10,6 +10,6 @@
         "file":"Setup.exe"
     },
     "uninstaller": {
-        "file":"Setup.exe"
+        "file":"AcroPro.msi"
     }
 }
