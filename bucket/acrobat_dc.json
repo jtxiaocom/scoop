@@ -4,7 +4,7 @@
     "homepage": "https://www.adobe.com/",
     "license": "-",
     "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.zip",
-    "hash": "md5:bb1686e0bd9323e9f87dd6de7bb8bceb",
+    "hash": "md5:dadb0a755ce2ea6548ae89af55af6592",
     "bin": "Acrobat.exe",
     "installer": {
         "file":"Setup.exe"
