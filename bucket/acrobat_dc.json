@@ -5,5 +5,11 @@
     "license": "-",
     "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.zip",
     "hash": "md5:cbfecf6b04eface95fa166e5bd847eac",
-    "bin": "Acrobat.exe"
+    "bin": "Acrobat.exe",
+    "installer": {
+        "script": "sudo Start-Process -filepath \"$dir\\Setup.exe\" -Wait"
+    },
+    "uninstaller": {
+        "script": "sudo Start-Process -filepath \"$dir\\Setup.exe\" -Wait"
+    }
 }
