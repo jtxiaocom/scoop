@@ -5,7 +5,7 @@
     "license": "-",
     "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.zip",
     "hash": "md5:dadb0a755ce2ea6548ae89af55af6592",
-    "bin": "Acrobat.exe",
+    "bin": "Arcobat/Acrobat.exe",
     "installer": {
         "file":"Setup.exe",
         "args":[
