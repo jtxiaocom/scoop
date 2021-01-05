@@ -10,7 +10,8 @@
         "file":"Setup.exe",
         "args":[
             "/S",
-            "/D=$dir"
+            "/D=$dir",
+            "/quiet"
         ]
     },
     "uninstaller": {
