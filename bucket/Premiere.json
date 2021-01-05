@@ -1,0 +1,11 @@
+{
+    "version": "20201207",
+    "description": "Premiere_20201207",
+    "homepage": "https://www.adobe.com/",
+    "license": "-",
+    "url": "https://scoop.whackeralpha.com/Premiere_20201207.zip",
+    "hash": "md5:8bcb47b866f025b140414bb38e26c35a",
+    "installer":{ 
+        "file":"Setup.exe"
+    }
+}
