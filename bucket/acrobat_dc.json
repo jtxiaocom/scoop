@@ -6,6 +6,6 @@
     "url": "https://scoop.whackeralpha.com/Acrobat_DC_20201210.zip",
     "hash": "md5:dadb0a755ce2ea6548ae89af55af6592",
     "installer":{ 
-        "file":"Setup.exe"
+        "file":"Set-up.exe"
     }
 }
