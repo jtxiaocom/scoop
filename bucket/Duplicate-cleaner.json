@@ -1,0 +1,9 @@
+{
+    "version": "4.1.1",
+    "description": "Duplicate cleaner Pro 首次打开会提示输入序列号，输入任意字符即可",
+    "homepage": "https://jtxiao.com/",
+    "license": "-",
+    "url": "https://scoop.whackeralpha.com/Duplicate-Cleaner-Pro-4.1.1.zip",
+    "hash": "md5:2ed2185d7133cf75cf973ca58ec214d5",
+    "bin": "Duplicate Cleaner\\DuplicateCleaner.exe"
+}
