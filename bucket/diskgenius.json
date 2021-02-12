@@ -1,0 +1,9 @@
+{
+    "version": "5.2.0",
+    "description": "diskgenius-5.2.0",
+    "homepage": "https://jtxiao.com/",
+    "license": "-",
+    "url": "https://scoop.jtxiao.com/diskgenius-5.2.0.zip",
+    "hash": "md5:7649f71fbfd6263e141256de945ad2d8",
+    "bin": "DiskGenius.exe"
+}

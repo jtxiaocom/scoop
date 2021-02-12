@@ -1,0 +1,9 @@
+{
+    "version": "3214",
+    "description": "Fish-3214",
+    "homepage": "https://jtxiao.com/",
+    "license": "-",
+    "url": "https://scoop.jtxiao.com/Fish-3214.zip",
+    "hash": "md5:7fb1ad3a84e535c51f96333592f0e8d9",
+    "bin": "fish.exe"
+}

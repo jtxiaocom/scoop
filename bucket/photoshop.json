@@ -1,9 +1,9 @@
 {
     "version": "20201210",
     "description": "Photoshop_20201207",
-    "homepage": "https://www.adobe.com/",
+    "homepage": "https://jtxiao.com/",
     "license": "-",
-    "url": "https://scoop.whackeralpha.com/Photoshop_20201207.zip",
+    "url": "https://scoop.jtxiao.com/Photoshop-20201207.zip",
     "hash": "md5:7bfddb689121e86d60775d8c9b3085f0",
     "installer":{ 
         "file":"Set-up.exe"

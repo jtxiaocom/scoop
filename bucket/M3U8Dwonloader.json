@@ -1,0 +1,9 @@
+{
+    "version": "2.1",
+    "description": "M3U8Dwonloader",
+    "homepage": "https://jtxiao.com/",
+    "license": "-",
+    "url": "https://scoop.jtxiao.com/M3U8Dwonloader-2.1.zip",
+    "hash": "md5:67d23650878d7af4f8ff665c2e63038e",
+    "bin": "M3U8-Downloader.exe"
+}
