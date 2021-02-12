@@ -5,5 +5,11 @@
     "license": "-",
     "url": "https://scoop.jtxiao.com/ReNamer-7.2.zip",
     "hash": "md5:3918c7946145944fed59d7a14b66abf1",
-    "bin": "ReNamer.exe"
+    "bin": "ReNamer.exe",
+    "shortcuts": [
+        [
+            "ReNamer.exe",
+            "ReNamer"
+        ]
+    ]
 }

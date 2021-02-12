@@ -5,5 +5,11 @@
     "license": "-",
     "url": "https://scoop.jtxiao.com/diskgenius-5.2.0.zip",
     "hash": "md5:7649f71fbfd6263e141256de945ad2d8",
-    "bin": "DiskGenius.exe"
+    "bin": "DiskGenius.exe",
+    "shortcuts": [
+        [
+            "DiskGenius.exe",
+            "DiskGenius"
+        ]
+    ]
 }
