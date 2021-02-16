@@ -8,7 +8,7 @@
     "bin": "Duplicate-Cleaner\\DuplicateCleaner.exe",
     "shortcuts": [
         [
-            "DuplicateCleaner.exe",
+            "Duplicate-Cleaner\\DuplicateCleaner.exe",
             "DuplicateCleaner"
         ]
     ]
