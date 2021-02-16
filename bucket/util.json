@@ -1,0 +1,15 @@
+{
+    "version": "1.02",
+    "description": "my helper 1.02",
+    "homepage": "https://jtxiao.com/",
+    "license": "-",
+    "url": "https://scoop.jtxiao.com/util/1.02.zip",
+    "hash": "md5:7cdee79b2588a34aa250e623557df8e7",
+    "bin": "util.exe",
+    "shortcuts": [
+        [
+            "util.exe",
+            "util"
+        ]
+    ]
+}
