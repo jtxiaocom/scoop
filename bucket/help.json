@@ -1,0 +1,15 @@
+{
+    "version": "1.0",
+    "description": "help-1.0",
+    "homepage": "https://jtxiao.com/",
+    "license": "-",
+    "url": "https://scoop.jtxiao.com/help-1.0.zip",
+    "hash": "md5:8398873a7285851b2deb2eca441034c6",
+    "bin": "help.exe",
+    "shortcuts": [
+        [
+            "help.exe",
+            "help"
+        ]
+    ]
+}
