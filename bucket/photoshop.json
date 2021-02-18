@@ -4,8 +4,5 @@
     "homepage": "https://jtxiao.com/",
     "license": "-",
     "url": "https://scoop.jtxiao.com/Photoshop-20201207.zip",
-    "hash": "md5:7bfddb689121e86d60775d8c9b3085f0",
-    "installer":{ 
-        "file":"Set-up.exe"
-    }
+    "hash": "md5:7bfddb689121e86d60775d8c9b3085f0"
 }

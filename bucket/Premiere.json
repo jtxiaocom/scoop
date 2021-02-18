@@ -4,8 +4,5 @@
     "homepage": "https://jtxiao.com/",
     "license": "-",
     "url": "https://scoop.jtxiao.com/Premiere-20201207.zip",
-    "hash": "md5:8bcb47b866f025b140414bb38e26c35a",
-    "installer":{ 
-        "file":"Set-up.exe"
-    }
+    "hash": "md5:8bcb47b866f025b140414bb38e26c35a"
 }
